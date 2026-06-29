@@ -91,6 +91,7 @@ I spend most of my time **breaking things**, **fixing things**, and figuring out
 
 | Project | Description |
 |---------|-------------|
+| 🕵️‍♂️ [**WaveHunter**](https://github.com/Desandu7000/WaveHunter) | Audio steganography and forensics toolkit ("Binwalk for audio") with digital carrier (SIGINT) demodulation and pipeline scoring |
 | 🤖 [**D7 WhatsApp AI Assistant**](https://github.com/Desandu7000/d7-whatsapp-assistant) | AI-powered group chat assistant with LLM integration, emotion-aware responses, and media analysis |
 | 🔒 **Cybersecurity Labs & Research** | Personal security experiments, vulnerability analysis, and tool exploration |
 | 🚩 **CTF Writeups** | Solutions and methodologies from Capture The Flag competitions |
